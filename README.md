@@ -78,6 +78,9 @@ I focus on writing clean code, adapting to challenges, and learning new skills. 
 
 <h3 align="center">Backend</h3>
 <p align="center">
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/> 
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
