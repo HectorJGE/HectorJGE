@@ -13,7 +13,7 @@
 </div>
 
 
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## 💻 **About me**
 
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
@@ -151,7 +151,15 @@ I focus on writing clean code, adapting to challenges, and learning new skills. 
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
+  
 [![](https://github-readme-stats.vercel.app/api?username=HectorJGE&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/HectorJGE)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=HectorJGE&theme=material-palenight)](https://github.com/HectorJGE)
-</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Always+learning+,+always+growging+." /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
