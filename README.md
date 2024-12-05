@@ -7,9 +7,6 @@
   <a href="mailto:hector.gimenez.escurra@gmail.com" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
-  <a href="#" onclick="navigator.clipboard.writeText('TuUsuario#1234'); alert('¡Nombre de Discord copiado!');" target="_blank">
-    <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-  </a>
 </div>
 
 
