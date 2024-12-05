@@ -151,9 +151,14 @@ I focus on writing clean code, adapting to challenges, and learning new skills. 
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
   
-[![](https://github-readme-stats.vercel.app/api?username=HectorJGE&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/HectorJGE)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=HectorJGE&theme=material-palenight)](https://github.com/HectorJGE)
+  [![](https://github-readme-stats.vercel.app/api?username=HectorJGE&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/HectorJGE)
+  
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=HectorJGE&theme=material-palenight)](https://github.com/HectorJGE)
+
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Always+learning+,+always+growging+." /></a>
