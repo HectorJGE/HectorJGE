@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
   <img src="https://img.shields.io/badge/Languages-English/Spanish-blue" />
 </p>
+
 I am a Software Developer with 2+ years of experience creating custom software solutions 🚀.
 I have:
 - Built multiple web apps with 98% client satisfaction✨.
