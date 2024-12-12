@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/badge/Languages-English/Spanish-blue" />
 </p>
 
-I am a Software Developer with over two years of experience and a background in Computer Engineering. I enjoy creating custom software solutions and using modern technologies to build efficient and reliable projects.
-
-I focus on writing clean code, adapting to challenges, and learning new skills. I like working in teams and always aim to deliver high-quality results that meet client needs.
+I am a Software Developer with over two years of experience specializing in building custom software solutions and optimizing processes for diverse clients.
+I have developed and deployed multiple web applications using technologies like React, Django, and Docker,
+automated workflows that saved up to 20 hours of manual work per month, 
+and integrated third-party APIs to enhance user functionality and engagement.
+I’ve also led projects that improved system efficiency by 30% through algorithm and database optimization and worked in agile teams to consistently deliver projects on time. 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
