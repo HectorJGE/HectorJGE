@@ -16,12 +16,13 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
   <img src="https://img.shields.io/badge/Languages-English/Spanish-blue" />
 </p>
-
-I am a Software Developer with over two years of experience specializing in building custom software solutions and optimizing processes for diverse clients.
-I have developed and deployed multiple web applications using technologies like React, Django, and Docker,
-automated workflows that saved up to 20 hours of manual work per month, 
-and integrated third-party APIs to enhance user functionality and engagement.
-I’ve also led projects that improved system efficiency by 30% through algorithm and database optimization and worked in agile teams to consistently deliver projects on time. 
+I am a Software Developer with 2+ years of experience creating custom software solutions 🚀.
+I have:
+- Built multiple web apps with 98% client satisfaction✨.
+- Optimized processes, reducing processing times by 30% ⏱️.
+- Automated workflows, saving 20+ hours/month 🔄.
+- Integrated APIs for better user experiences 🌐.
+- Delivered 100% of projects on time in agile teams 🤝.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
