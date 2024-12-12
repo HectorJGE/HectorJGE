@@ -18,6 +18,7 @@
 </p>
 
 I am a Software Developer with 2+ years of experience creating custom software solutions 🚀.
+
 I have:
 - Built multiple web apps with 98% client satisfaction✨.
 - Optimized processes, reducing processing times by 30% ⏱️.
